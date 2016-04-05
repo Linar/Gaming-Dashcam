@@ -1,0 +1,7 @@
+C:\ANTON\VS Projects\JoinVideo\JoinVideo\bin\Debug\JoinVideo.exe
+C:\ANTON\VS Projects\JoinVideo\JoinVideo\bin\Debug\JoinVideo.pdb
+C:\ANTON\VS Projects\JoinVideo\JoinVideo\obj\Debug\JoinVideo.csprojResolveAssemblyReference.cache
+C:\ANTON\VS Projects\JoinVideo\JoinVideo\obj\Debug\JoinVideo.exe
+C:\ANTON\VS Projects\JoinVideo\JoinVideo\obj\Debug\JoinVideo.pdb
+C:\ANTON\VS Projects\JoinVideo\JoinVideo\obj\Debug\Interop.Shell32.dll
+C:\ANTON\VS Projects\JoinVideo\JoinVideo\obj\Debug\JoinVideo.csproj.ResolveComReference.cache

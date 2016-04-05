@@ -1,0 +1,13 @@
+﻿<Window x:Class="UploadVideoWPF.Authorize2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:oauth2="clr-namespace:DotNetOpenAuth.OAuth2;assembly=DotNetOpenAuth.OAuth2.Client.UI"
+        xmlns:WinForms="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        Title="Authorize" Height="500" Width="500" Loaded="Window_Loaded" ShowActivated="False" Left="50" Top="50">
+
+    <DockPanel LastChildFill="True">
+        <WindowsFormsHost>
+            <oauth2:ClientAuthorizationView x:Name="clientAuthorizationView" />
+        </WindowsFormsHost>
+    </DockPanel>
+</Window>
